@@ -1,0 +1,1 @@
+docker build -t williamwagnerbr/apache2-php7 ./
